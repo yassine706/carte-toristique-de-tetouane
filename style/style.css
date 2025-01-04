@@ -1,0 +1,28 @@
+div{
+    background-color: rgb(250, 204, 155);
+    border: 12px solid rgb(100, 90, 58);
+    padding: 20px;
+    margin: 10px;
+
+    #
+
+}
+p{
+    color: rgb(5, 20, 7);
+    text-align: center;
+    font-size: 120%;
+     }
+     h1{
+        text-align: center;
+    }
+
+    
+    table th{
+        border: 2px double;
+    }
+
+    tr:hover{
+    background-color: chartreuse;
+    }
+
+}
